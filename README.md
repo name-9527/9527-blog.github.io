@@ -1,2 +1,2 @@
-# name-9527.github.io/blog
-9527的博客
+我的博客地址
+https://name-9527.github.io/blog/
